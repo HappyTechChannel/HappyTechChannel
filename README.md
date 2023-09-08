@@ -12,5 +12,5 @@
 
 <br>
 <p align="left">
-<a href="https://www.linkedin.com/in/mohammed-saeed-61b0bb233/" target="blank"><img align="center" src="https://www.svgrepo.com/show/13671/youtube.svg" alt="Mohammed Saeed" height="30" width="60" /></a>
+<a href="https://www.youtube.com/channel/UCEBp9EMoa6CxGoz62hAzzoQ" target="blank"><img align="center" src="https://www.svgrepo.com/show/13671/youtube.svg" alt="Mohammed Saeed" height="30" width="60" /></a>
 </p>
